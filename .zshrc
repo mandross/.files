@@ -13,4 +13,5 @@ path=($path ~/miniconda/bin ~/bin ~/.npm-pkg/bin)
 # ALIASES
 alias mydevil='ssh crazyjunx@s6.mydevil.net'
 alias start='source activate icews'
+alias rm='gvfs-trash'
 
