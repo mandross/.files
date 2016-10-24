@@ -8,7 +8,8 @@ antigen theme agnoster
 antigen apply
 
 # PATH
-path=($path ~/miniconda/bin ~/bin ~/.npm-pkg/bin)
+typeset -gx gopath=(~/.go-workspace)
+path=($path ~/miniconda/bin ~/bin ~/.npm-pkg/bin $gopath/bin)
 
 # ALIASES
 alias mydevil='ssh crazyjunx@s6.mydevil.net'
