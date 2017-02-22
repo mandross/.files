@@ -1,0 +1,10 @@
+[user]
+	        name = Jakub Pietrucha
+		        email = kuba@slashdev.team
+[push]
+	        default = simple
+[core]
+	        editor = vim
+[alias]
+	        tree = log --graph --oneline --decorate --all
+
