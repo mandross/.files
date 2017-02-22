@@ -1,6 +1,6 @@
 [user]
 	        name = Jakub Pietrucha
-		        email = kuba@slashdev.team
+		email = kuba@slashdev.team
 [push]
 	        default = simple
 [core]
