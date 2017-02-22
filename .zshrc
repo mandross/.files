@@ -13,6 +13,7 @@ path=($path ~/miniconda/bin ~/bin ~/.npm-pkg/bin $gopath/bin)
 
 # ALIASES
 alias mydevil='ssh crazyjunx@s6.mydevil.net'
+alias devdevil='ssh slashdev@s12.mydevil.net'
 alias start='source activate icews'
 alias rm='trash'
 alias pendrive='sudo mount /dev/sda1 /media/usb -o uid=pi,gid=pi'
