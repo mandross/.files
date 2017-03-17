@@ -15,4 +15,5 @@ path=($path ~/miniconda/bin ~/bin ~/.npm-pkg/bin $gopath/bin)
 alias mydevil='ssh crazyjunx@s6.mydevil.net'
 alias devdevil='ssh slashdev@s12.mydevil.net'
 alias rm='trash'
+alias idx='ctags -R -f .tags'
 
