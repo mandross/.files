@@ -9,7 +9,7 @@ antigen apply
 
 # PATH
 typeset -gx gopath=(~/.go-workspace)
-path=($path ~/miniconda/bin ~/bin ~/.npm-pkg/bin $gopath/bin)
+path=($path ~/miniconda/bin ~/bin ~/.npm-pkg/bin /usr/local/go/bin $gopath/bin)
 
 # ALIASES
 alias mydevil='ssh crazyjunx@s6.mydevil.net'
